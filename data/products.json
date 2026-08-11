@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gingelly-5l",
+    "name": "Chekku Gingelly Oil",
+    "short": "Pure traditional sesame oil",
+    "price": 1700,
+    "mrp": 1849,
+    "size": "5 L + 250 ml free",
+    "image": "/assets/wood-pressed-banner.jpg",
+    "offer": "250 ml FREE",
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "family-combo",
+    "name": "Family Pack — 3 Oils",
+    "short": "Coconut + Groundnut + Gingelly",
+    "price": 999,
+    "mrp": 1150,
+    "size": "Combo Pack",
+    "image": "/assets/family-pack.jpg",
+    "offer": "Save ₹231",
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "groundnut-5l-special",
+    "name": "Groundnut Oil — 5 L Special",
+    "short": "Pure & natural wood pressed groundnut oil",
+    "price": 1099,
+    "mrp": 1150,
+    "size": "5 L",
+    "image": "/assets/groundnut-offer.jpg",
+    "offer": "Special Offer",
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "0f3b88b4-c8e0-41a0-8281-46d6b741abf7",
+    "name": "coconut oil",
+    "short": "Pure traditional oil",
+    "price": 380,
+    "mrp": 400,
+    "size": "1",
+    "image": "/uploads/1786467360318-b24ccc08.jpeg",
+    "offer": "",
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "edb08d3c-ce39-4939-bab0-9b41d62d15b5",
+    "name": "ground nut oil",
+    "short": "Pure traditional groundnut oil",
+    "price": 360,
+    "mrp": 380,
+    "size": "1",
+    "image": "/uploads/1786467560908-91224bf6.png",
+    "offer": "",
+    "featured": true,
+    "active": true
+  }
+]
